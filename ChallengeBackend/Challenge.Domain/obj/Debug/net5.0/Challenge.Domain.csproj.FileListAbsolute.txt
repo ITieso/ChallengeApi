@@ -1,0 +1,12 @@
+C:\Users\igor.tieso\Desktop\DesafioBackend\ChallengeBackend\Challenge.Domain\bin\Debug\net5.0\Challenge.Domain.deps.json
+C:\Users\igor.tieso\Desktop\DesafioBackend\ChallengeBackend\Challenge.Domain\bin\Debug\net5.0\Challenge.Domain.dll
+C:\Users\igor.tieso\Desktop\DesafioBackend\ChallengeBackend\Challenge.Domain\bin\Debug\net5.0\ref\Challenge.Domain.dll
+C:\Users\igor.tieso\Desktop\DesafioBackend\ChallengeBackend\Challenge.Domain\bin\Debug\net5.0\Challenge.Domain.pdb
+C:\Users\igor.tieso\Desktop\DesafioBackend\ChallengeBackend\Challenge.Domain\obj\Debug\net5.0\Challenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.tieso\Desktop\DesafioBackend\ChallengeBackend\Challenge.Domain\obj\Debug\net5.0\Challenge.Domain.AssemblyInfoInputs.cache
+C:\Users\igor.tieso\Desktop\DesafioBackend\ChallengeBackend\Challenge.Domain\obj\Debug\net5.0\Challenge.Domain.AssemblyInfo.cs
+C:\Users\igor.tieso\Desktop\DesafioBackend\ChallengeBackend\Challenge.Domain\obj\Debug\net5.0\Challenge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\igor.tieso\Desktop\DesafioBackend\ChallengeBackend\Challenge.Domain\obj\Debug\net5.0\Challenge.Domain.dll
+C:\Users\igor.tieso\Desktop\DesafioBackend\ChallengeBackend\Challenge.Domain\obj\Debug\net5.0\ref\Challenge.Domain.dll
+C:\Users\igor.tieso\Desktop\DesafioBackend\ChallengeBackend\Challenge.Domain\obj\Debug\net5.0\Challenge.Domain.pdb
+C:\Users\igor.tieso\Desktop\DesafioBackend\ChallengeBackend\Challenge.Domain\obj\Debug\net5.0\Challenge.Domain.csproj.AssemblyReference.cache
