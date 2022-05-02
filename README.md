@@ -6,7 +6,10 @@ Todas as chamadas que começam com /api serão redirecionadas para o backend .NE
 
 Swagger: https://localhost:44344/swagger/index.html
 
-O que foi feito
+O que foi feito:
+
  Api
+ 
  Swagger
+ 
  Migrations
